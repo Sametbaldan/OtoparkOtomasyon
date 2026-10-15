@@ -1,0 +1,6 @@
+wwwroot\app.js
+wwwroot\index.html
+wwwroot\ticket.html
+C:\Users\ASUS\Desktop\OtoparkOtomasyon\wwwroot\app.js
+C:\Users\ASUS\Desktop\OtoparkOtomasyon\wwwroot\index.html
+C:\Users\ASUS\Desktop\OtoparkOtomasyon\wwwroot\ticket.html
